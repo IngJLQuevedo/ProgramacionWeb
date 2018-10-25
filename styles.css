@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.header{
+	height: 200px;
+	background-color: #60AFFF;
+	text-align: center;
+	padding-top: 70px;
+	font-size: 40px;
+}
+
+.page{
+	width: 900px;
+	margin: 0 auto;
+}
+
+.fondo {
+	overflow: hidden;
+	background-color: #DAECFE;
+}
+
+.centro {
+	float: center;
+	width: auto;
+	height: auto;
+	background-color: #6989FF;    
+	padding: 20px;
+}
+
+.item {
+  float: center;
+  width: auto;
+  padding: 20px;
+  margin: 20px;
+  height: auto;
+  background-color: #B2D6FF;
+}
